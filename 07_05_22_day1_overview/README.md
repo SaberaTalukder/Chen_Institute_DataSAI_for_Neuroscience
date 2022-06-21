@@ -1,3 +1,2 @@
-# Chen_Institute_DataSAI_for_Neuroscience Overview Day
+# Overview Day led by Sabera Talukder and Adi Nair
 
-#Today we will cover topics like overfitting, regression, ...

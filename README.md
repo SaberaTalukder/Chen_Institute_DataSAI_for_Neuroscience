@@ -1,1 +1,2 @@
-# Chen_Institute_DataSAI_for_Neuroscience
+# The Chen Institute DataSAI for Neuroscience Summer School
+

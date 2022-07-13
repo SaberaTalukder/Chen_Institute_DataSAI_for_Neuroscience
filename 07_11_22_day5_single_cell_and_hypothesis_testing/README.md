@@ -6,3 +6,12 @@ The code folder contains notebooks for (1) applying regression models to single 
 
 The misc folder contains handwritten exercises for understanding basic properties of expectation and matrix algebra in the context of regression and correlation.
 
+[Introduction Lecture](https://docs.google.com/presentation/d/1R-RgCn8s4DQvXXJpim4UiP16o4KM2yqryUl5eQf__SM/edit?usp=sharing)
+
+[Discussion Slides](https://docs.google.com/presentation/d/1VoM8AZjhIofqDMIMs1KIdFlwLdLAw-lPq_KNpdSObng/edit?usp=sharing)
+
+[Methods Lecture](https://docs.google.com/presentation/d/1UPvzx8JmjnwKDQsK72H5Zaw5ltkQIkF3w5T7O_c6OcE/edit?usp=sharing)
+
+
+[Cheatsheet Slides for Exercises](https://docs.google.com/presentation/d/1jo0RMGtWdAluB3GbB0GbDQsGaEI1U4kmj2Jkg4Ybmwg/edit?usp=sharing)
+
